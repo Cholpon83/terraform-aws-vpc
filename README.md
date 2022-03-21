@@ -3,6 +3,6 @@
 ### Usage:
 ```
 module "vpc" {
-    source = ""
+    source = "Cholpon83/vpc/aws"
 }
 ```
